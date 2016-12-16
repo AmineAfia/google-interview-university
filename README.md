@@ -1,3 +1,11 @@
+# TODO:
+- check links
+- Match with KIT lectures
+- German README
+--> Result: Answer this questions:
+- Do research focused Universities make us specialized or swiss army knifes (Able to code(Build Complex systems and solve problems) and do research(Do a structured/precise work to be publish) ;))
+- How does the KIT prepare us for such interviews? ;)
+
 # Google Interview University
 
 Translations: [中文版本](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
