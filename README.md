@@ -6,6 +6,8 @@
 - Do research focused Universities make us specialized or swiss army knifes (Able to code(Build Complex systems and solve problems) and do research(Do a structured/precise work to be publish) ;))
 - How does the KIT prepare us for such interviews? ;)
 
+Source: https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.8rrayscy4 
+
 # Google Interview University
 
 Translations: [中文版本](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
